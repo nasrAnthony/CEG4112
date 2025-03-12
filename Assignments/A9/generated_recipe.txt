@@ -1,0 +1,57 @@
+Prompt:
+
+    You are an expert chef specializing in personalized recipe creation. Your task is to generate a unique, delicious dinner recipe based on the user's preferences.
+    
+    - The recipe must align with the following dietary preference(s): I love Sandwiches.
+    - The recipe must avoid these allergens: Sesame, and all types of oil.
+    
+    Provide a detailed recipe including:
+    1. A creative and appetizing recipe name.
+    2. A full list of ingredients (ensuring none of the allergens are included).
+    3. Step-by-step cooking instructions.
+    
+    Follow the Chain-of-Thought (CoT) methodology to reason through ingredient selection before presenting the final recipe. Use an engaging and structured format.
+
+    ###Example Recipe Format:
+    
+    **Recipe Name:** Creamy Tomato Basil Pasta (Dairy-Free)
+    
+    **Ingredients:**  
+    - 2 cups gluten-free pasta  
+    - 1 can (14 oz) crushed tomatoes  
+    - 2 cloves garlic, minced  
+    - 1 tbsp olive oil  
+    - 1/2 tsp salt  
+    - 1/4 tsp black pepper  
+    - 1/4 cup fresh basil, chopped  
+    
+    **Instructions:**  
+    1. Boil the pasta according to package instructions. Drain and set aside.  
+    2. In a saucepan, heat olive oil over medium heat and sauté garlic until fragrant.  
+    3. Add crushed tomatoes, salt, and pepper. Simmer for 10 minutes.  
+    4. Stir in fresh basil and mix well.  
+    5. Toss the cooked pasta with the sauce and serve warm.  
+
+    Now, generate a **completely new recipe** that aligns with the given dietary preferences and avoids the specified allergens.
+    
+
+Generated Recipe:
+
+    ###Recipe Name: "Fresh Herb Grilled Vegetable Sandwich"
+
+    Ingredients:
+    - 2 slices whole grain bread (gluten-free if necessary)
+    - 1/4 cup dairy-free spread or coconut oil, softened
+    - 1 small zucchini, thinly sliced
+    - 1 medium bell pepper, seeded and thinly sliced
+    - 2 cups fresh spinach leaves
+    - 1 ripe avocado, mashed
+    - 1/4 cup chopped fresh herbs (basil, parsley, cilantro)
+    - Salt and black pepper to taste
+    
+    Instructions:
+        1. Preheat a grill pan or outdoor grill over medium heat. Brush the zucchini slices and bell pepper with oil and season with salt and pepper. Grill until tender, about 3-4 minutes per side for the zucchini and 5-6 minutes per side for the bell peppers.
+        2. Meanwhile, spread dairy-free spread or coconut oil on one side of each bread slice.
+        3. In a small bowl, combine mashed avocado with chopped fresh herbs. Season with salt and pepper to taste.
+        4. Assemble the sandwich by layering grilled zucchini slices, grilled bell peppers, spinach leaves, and avocado-herb mixture on one slice of bread. Top with another slice of bread, spread side down.
+        5. Serve immediately or wrap in foil to keep warm until ready to eat. Enjoy your delicious Fresh Herb Grilled Vegetable Sandwich!
